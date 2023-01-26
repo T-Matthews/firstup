@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+.area-top{
+    margin: auto;
+    border: lightgray 2px solid;
+    border-radius: 15px;
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    color: black;
+}
+.area-bot{
+    margin: auto;
+}
+.button-reroll{
+    color: red;
+}
